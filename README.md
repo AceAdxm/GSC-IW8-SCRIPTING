@@ -19,7 +19,7 @@ Welcome! theses resources are for **testing IW8 MW2019 GSC scripts**. Everything
 
 ## 🎮 Community
 
-- Join the **IW8 modding community** to play WZ 1 and more: [discord.gg/deomware](https://discord.gg/deomware)  
+- Join the **IW8 modding community** to play WZ 1 and more: [discord.gg/demonware](https://discord.gg/demonware)  
 
 ---
 
