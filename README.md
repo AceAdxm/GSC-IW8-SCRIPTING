@@ -1,6 +1,6 @@
 # IW8 MW2019 GSC Testing Hub
 
-Welcome! This server/resources are for **testing IW8 MW2019 GSC scripts**. Everything here is experimental and for learning/testing purposes only.  
+Welcome! theses resources are for **testing IW8 MW2019 GSC scripts**. Everything here is experimental and for learning/testing purposes only.  
 
 ## ⚡ Tools & Credits
 
