@@ -1,7 +1,7 @@
 // Simplified Call of Duty Mod Menu
 // Core features only - easier to understand and modify
 
-main()
+init()
 {
     level thread custom_init();
 }
@@ -514,4 +514,3 @@ EXAMPLES:
 /super_jump 1          - Jump really high
 /god_mode 1            - Can't die
 /inf_ammo 1            - Never reload
-*/
