@@ -17,9 +17,6 @@ Welcome! theses resources are for **testing IW8 MW2019 GSC scripts**. Everything
 - I may upload **GSC dumps** or **projects** here for testing or sharing.  
 - This is **not for production use** — strictly for testing and experimentation.  
 
-## 🎮 Community
-
-- Join the **IW8 modding community** to play WZ 1 and more: [discord.gg/demonware](https://discord.gg/demonware)  
 
 ---
 
